@@ -1,3 +1,20 @@
+---
+layout: default
+title: doc1
+parent: examples
+---
+
+# doc1 Utilities
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 # Classification and Gradient-based Localization of Chest Radiographs
 
 ![cover](./assets/cover.png)

@@ -1,3 +1,19 @@
+---
+layout: default
+title: PHP_Censor
+parent: examples
+---
+
+# PHP_Censor Utilities
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 <p align="center">
     <img width="500" height="auto" src="docs/images/php-censor-black.png" alt="PHP Censor" />
 </p>
