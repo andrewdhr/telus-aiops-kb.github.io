@@ -1,10 +1,10 @@
 ---
 layout: default
-title: PHP_Censor
-parent: examples
+title: Section 2
+parent: Document 1
 ---
 
-# PHP_Censor Utilities
+# Section 2: PHP Censor
 {: .no_toc }
 
 ## Table of contents
@@ -32,21 +32,6 @@ PHP Censor versions:
 | `1.3` (Jerry Smith)  | `1.3.5`  | `release-1.3` | Old stable version (**ONLY FIXES**)                                   | `>=5.6, <8.0`       |
 | `2.0` (Rick Sanchez) | `2.0.5`  | `release-2.0` | Current stable version ([Upgrade from v1 to v2](docs/UPGRADE_2.0.md)) | `>=7.4`             |
 | `2.1`                | WIP      | `master`      | Feature minor version (WIP)                                           | `>=7.4`             |
-
-More [screenshots](docs/en/screenshots.md).
-
-* [System requirements](#system-requirements)
-* [Features](#features)
-* [Changelog](#changelog)
-* [Roadmap](#roadmap)
-* [Installing](#installing)
-* [Installing via Docker](#installing-via-docker)
-* [Updating](#updating)
-* [Configuring project](#configuring-project)
-* [Migrations](#migrations)
-* [Tests](#tests)
-* [Documentation](#documentation)
-* [License](#license)
 
 ## System requirements
 
