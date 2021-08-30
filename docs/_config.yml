@@ -33,6 +33,14 @@ github_username:  jekyll
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+ 
+# Aux links for the upper right navigation
+aux_links:
+  "Add  or edit your docs for AIOps on GitHub":
+    - "//github.com/andrewdhr/telus-aiops-kb.github.io"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
