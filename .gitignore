@@ -1,0 +1,22 @@
+CachedData/**
+Code Cache/**
+
+Cache/**
+GPUCache/**
+*cache**
+Local Storage/**
+logs/**
+exthost Crash Reports/**
+User/**
+CachedExtensions/builtin
+Crash Reports/**
+rapid_render.json
+Network Persistent State
+machineid
+languagepacks.json
+Cookies-journal
+Cookies
+storage.json
+TransportSecurity
+Backups/workspaces.json
+CachedExtensionVSIXs/lextudio.restructuredtext-160.0.0
